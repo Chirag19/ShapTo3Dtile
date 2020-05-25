@@ -37,9 +37,4 @@ ShapeTo3Dtile.exe --sourceDirectory F:\test\ShapeData\building.shp --targetDirec
 
 我们立志于做专业的三维大数据应用平台，目前平台后端相关数据转换这块的功能刚做出来，代码如有纰漏，请不吝赐教。
 
-了解更多信息请访问灵图软件官网：http://www.lingtu.com/
-
-
-
-
 "# ShapTo3Dtile" 
